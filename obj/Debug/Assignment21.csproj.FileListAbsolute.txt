@@ -1,0 +1,8 @@
+D:\Simplilearn classes\day18\Assignment21\Assignment21\bin\Debug\Assignment21.exe.config
+D:\Simplilearn classes\day18\Assignment21\Assignment21\bin\Debug\Assignment21.exe
+D:\Simplilearn classes\day18\Assignment21\Assignment21\bin\Debug\Assignment21.pdb
+D:\Simplilearn classes\day18\Assignment21\Assignment21\obj\Debug\Assignment21.csproj.AssemblyReference.cache
+D:\Simplilearn classes\day18\Assignment21\Assignment21\obj\Debug\Assignment21.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn classes\day18\Assignment21\Assignment21\obj\Debug\Assignment21.csproj.CoreCompileInputs.cache
+D:\Simplilearn classes\day18\Assignment21\Assignment21\obj\Debug\Assignment21.exe
+D:\Simplilearn classes\day18\Assignment21\Assignment21\obj\Debug\Assignment21.pdb
